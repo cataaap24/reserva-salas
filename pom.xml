@@ -51,7 +51,7 @@
                 <artifactId>javafx-maven-plugin</artifactId>
                 <version>0.0.8</version>
                 <configuration>
-                    <mainClass>reservas.adapters.ui.Main</mainClass>
+                    <mainClass>reserva.adapters.ui.Main</mainClass>
                     <options>
                         <option>-Dfile.encoding=UTF-8</option>
                     </options>
