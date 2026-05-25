@@ -8,6 +8,8 @@ El proyecto modela un sistema sencillo para reservar salas en una universidad.
 - Listar salas y reservas.
 - Generar un reporte general.
 
+                                                                                          
+  *<ins>En este primer incremento el sistema únicamente permite registrar salas</ins>*
 ## Tecnologías:
 - Java.
 - JavaFX.
