@@ -11,9 +11,9 @@ El proyecto modela un sistema sencillo para reservar salas en una universidad.
                                                                                           
   *<ins>En este primer incremento el sistema únicamente permite registrar salas</ins>*
 ## Tecnologías:
-- Java.
-- JavaFX.
-- Maven.
+- Java
+- JavaFX
+- Maven
 --- 
 ## Ejecución
 Para ejecutar este proyecto de JavaFX y Maven, puedes descargar el repositorio en formato .zip y seguir estos pasos:
