@@ -1,6 +1,6 @@
 <mxfile host="Electron">
   <diagram name="Página-1" id="03bpGUo_OlMJSJwHVItr">
-    <mxGraphModel dx="1685" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2103" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,8 +28,8 @@
             <mxPoint x="365" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YCdbHnMIYDk551Wyg4eZ-4" parent="1" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" value="ReservaApp" vertex="1">
-          <mxGeometry height="85" width="80" x="325" y="55" as="geometry" />
+        <mxCell id="YCdbHnMIYDk551Wyg4eZ-4" parent="1" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" value="ReservaSystem App" vertex="1">
+          <mxGeometry height="85" width="110" x="310" y="57.5" as="geometry" />
         </mxCell>
         <mxCell id="YCdbHnMIYDk551Wyg4eZ-13" edge="1" parent="1" source="YCdbHnMIYDk551Wyg4eZ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;dashPattern=8 8;">
           <mxGeometry relative="1" as="geometry">
@@ -199,7 +199,7 @@
             <mxPoint x="780" y="632" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YCdbHnMIYDk551Wyg4eZ-46" edge="1" parent="1" source="YCdbHnMIYDk551Wyg4eZ-23" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;exitX=1.181;exitY=0.87;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.129;entryY=0.907;entryDx=0;entryDy=0;entryPerimeter=0;" target="YCdbHnMIYDk551Wyg4eZ-25" value="10. Finalización Exitosa">
+        <mxCell id="YCdbHnMIYDk551Wyg4eZ-46" edge="1" parent="1" source="YCdbHnMIYDk551Wyg4eZ-23" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;exitX=1.181;exitY=0.87;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.129;entryY=0.907;entryDx=0;entryDy=0;entryPerimeter=0;" target="YCdbHnMIYDk551Wyg4eZ-25" value="7. Finalización Exitosa">
           <mxGeometry relative="1" width="100" x="-0.0328" y="21" as="geometry">
             <mxPoint as="offset" />
             <Array as="points" />
@@ -207,7 +207,7 @@
             <mxPoint x="555" y="662" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YCdbHnMIYDk551Wyg4eZ-47" edge="1" parent="1" source="YCdbHnMIYDk551Wyg4eZ-21" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;exitX=0.911;exitY=0.926;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.061;entryY=0.932;entryDx=0;entryDy=0;entryPerimeter=0;" target="YCdbHnMIYDk551Wyg4eZ-23" value="11. Finalización Exitosa">
+        <mxCell id="YCdbHnMIYDk551Wyg4eZ-47" edge="1" parent="1" source="YCdbHnMIYDk551Wyg4eZ-21" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;exitX=0.911;exitY=0.926;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.061;entryY=0.932;entryDx=0;entryDy=0;entryPerimeter=0;" target="YCdbHnMIYDk551Wyg4eZ-23" value="8. Finalización Exitosa">
           <mxGeometry relative="1" width="100" x="-0.0279" y="28" as="geometry">
             <mxPoint as="offset" />
             <Array as="points" />
@@ -215,7 +215,7 @@
             <mxPoint x="340" y="677" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YCdbHnMIYDk551Wyg4eZ-48" edge="1" parent="1" source="YCdbHnMIYDk551Wyg4eZ-18" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;exitX=1.061;exitY=0.896;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.049;entryY=0.971;entryDx=0;entryDy=0;entryPerimeter=0;" target="YCdbHnMIYDk551Wyg4eZ-21" value="12. Finalización Exitosa">
+        <mxCell id="YCdbHnMIYDk551Wyg4eZ-48" edge="1" parent="1" source="YCdbHnMIYDk551Wyg4eZ-18" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;exitX=1.061;exitY=0.896;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.049;entryY=0.971;entryDx=0;entryDy=0;entryPerimeter=0;" target="YCdbHnMIYDk551Wyg4eZ-21" value="9. Finalización Exitosa">
           <mxGeometry relative="1" width="100" x="-0.0291" y="20" as="geometry">
             <mxPoint as="offset" />
             <Array as="points" />
